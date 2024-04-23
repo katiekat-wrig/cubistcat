@@ -1,3 +1,7 @@
+//Kat Wright
+//Cubism Assignment 1
+//Spring 2024
+
 let img1;
 let overlayimg;
 
